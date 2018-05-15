@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MobileBuildAlert</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="mobile_build_alert">Mobile Build Alert</string>
+    <string name="title_activity_build_alert">BuildAlertActivity</string>
+</resources>
